@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+*{
+    font-family: 'Josefin Sans',Arial, Helvetica, sans-serif;
+    color: navy;
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-family:  'Playfair Display', Georgia, 'Times New Roman', Times, serif;
+}
+
+
+body {
+    background: rgb(0, 212, 255);
+    background: linear-gradient(90deg, rgba(255, 255, 255, 1) 0%, rgba(9, 9, 121, 0.5) 35%, rgba(0, 212, 255, 0.5) 100%);
+}
