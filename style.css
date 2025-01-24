@@ -2,7 +2,7 @@
 
 @font-face {
     font-family: playwriteIN;
-    src: url(/dl_fonts/Playwrite_IN/PlaywriteIN-VariableFont_wght.ttf);
+    src: url(../PlaywriteIN_vwght.ttf);
   }
 
 * {
